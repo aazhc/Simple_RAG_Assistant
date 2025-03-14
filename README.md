@@ -1,4 +1,4 @@
-# Simple_RAG_Assistant
+# Simple_RAG_Assistant-zhc
 This is an AI assistant for simple RAG based on Ollama and PyQt. 
 ## Cover
 ![Cover](./basis/Cover.png)
